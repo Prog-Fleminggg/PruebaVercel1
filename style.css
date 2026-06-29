@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-family: Arial, sans-serif;
+}
+.componentes{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+img{
+    height: 200px;
+
+}
+.card{
+    background-color: #9a9;
+}
+
+.btn{
+     background-color:  black;
+}
+.fuente{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.grafica{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.carta{
+     display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
